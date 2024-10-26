@@ -21,8 +21,9 @@
 
 * Contacts
                                                                                                         
-![tl](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
-> `http://t.me/brunomeloso`
+<a href="Http://t.me/brunomeloso">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
 <br>
 <br>
