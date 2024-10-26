@@ -1,17 +1,31 @@
-## Eai, suavinho? 👍🍷?
-Eu sou o Bruno Silva, criador de conteúdo desde programação e tecnologia até as melhores gambiarras do mundo! 👀🗿
+# Eai, suavinho? 👍🍷?
+> Eu sou o Bruno Silva, criador de conteúdo desde programação e tecnologia até as melhores gambiarras do mundo! 👀
 <br>
-<img width="200" src="https://i.ibb.co/rtqCssQ/MELOSO-MASTER.jpg">
 
-* Languagens and Tools 
-<div style="display: inline_block">
-<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
-<img width="50" srv="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg">
-https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white
-</div>
+<img width="855" src="https://i.ibb.co/Dgf1PCD/Design-sem-nome.png">
+<br>
 
+* Tools
+
+![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)  
+![pb](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-tinkercad-wordmark.svg/512px-Logo-tinkercad-wordmark.svg.png?20191017154918"/>
+
+* Languagens
+  
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](url)
+
+* Contacts
+  
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) 
+
+<br>
 <br>
 
 > [!note]
