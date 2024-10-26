@@ -1,5 +1,5 @@
 # Eai, suavinho? 👍🍷?
-> Eu sou o Bruno Silva, criador de conteúdo desde programação e tecnologia até as melhores gambiarras do mundo! 👀
+> ##Eu sou o Bruno Silva, criador de conteúdo desde programação e tecnologia até as melhores gambiarras do mundo! 👀
 <br>
 
 <img width="855" src="https://i.ibb.co/Dgf1PCD/Design-sem-nome.png">
@@ -13,7 +13,7 @@
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <img width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo-tinkercad-wordmark.svg/512px-Logo-tinkercad-wordmark.svg.png?20191017154918"/>
 
-* Languagens
+* Languages
   
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
