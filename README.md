@@ -2,7 +2,6 @@
 > Eu sou o Bruno Silva, criador de conteúdo desde programação e tecnologia até as melhores gambiarras do mundo! 👀
 <br>
 
-<img width="855" src="https://i.ibb.co/Dgf1PCD/Design-sem-nome.png">
 <br>
 
 * Tools
