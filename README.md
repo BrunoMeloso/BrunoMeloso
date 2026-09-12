@@ -1,4 +1,4 @@
-# Hi, suavinho? 👍🍷?
+# Hi, suavinho? 👍🍷
 > Eu sou o Bruno Silva, criador de conteúdo desde programação, tecnologia e até as melhores gambiarras do mundo! 👀
 <br>
 <br>
